@@ -2,8 +2,9 @@
 
 Bu proje, belirli bir tuşa basarak fare tıklamalarını otomatik hale getiren bir uygulamadır.
 
-f tuşu: Otomatik tıklamayı başlat/durdur
-q tuşu: Uygulamayı kapat
+'f' tuşu: Otomatik tıklamayı başlat/durdur
+
+'q' tuşu: Uygulamayı kapat
 
 ## Gerekli Kütüphaneler
 
